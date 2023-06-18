@@ -1,3 +1,4 @@
+![logo](https://github.com/EmmanuelAfamefuna/EmmanuelAfamefuna/blob/main/large%20blog%20banner%20(618%20×%20239px)%20(2).png)
 <h1 align="center">Hi 👋, I'm Emmanuel Afamefuna</h1>
 <h3 align="center">A passionate About DevOps</h3>
 
@@ -5,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelafamefuna" alt="emmanuelafamefuna" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ann_afame" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
 
 - 💬 Ask me about **AWS, DevOps, Azure & Microservices**
 
