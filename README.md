@@ -1,5 +1,5 @@
 
-![logo](https://github.com/EmmanuelAfamefuna/EmmanuelAfamefuna/blob/main/large%20blog%20banner%20(618%20×%20239px)%20(2).png)
+![logo](https://github.com/EmmanuelAfamefuna/EmmanuelAfamefuna/blob/main/large%20blog%20banner%20(618%20×%20239px)%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Emmanuel Afamefuna</h1>
 <h3 align="center">A passionate About DevOps</h3>
 
